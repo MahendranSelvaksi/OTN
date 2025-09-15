@@ -1,0 +1,2904 @@
+[
+    {
+      "districtName": "புதுக்கோட்டை",
+      "unionList": [
+        {
+          "unionName": "அரிமளம்",
+          "panchayatList": [
+            {
+              "panchayatName": "ஆயிங்குடி",
+              "villageList": [
+                {
+                  "villageName": "குறுந்தங்குடி"
+                },
+                {
+                  "villageName": "வலையன்வயல்"
+                },
+                {
+                  "villageName": "ஆயிங்குடி"
+                },
+                {
+                  "villageName": "முடுக்குப்பட்டி "
+                }
+              ]
+            },
+            {
+              "panchayatName": "இராயவரம்",
+              "villageList": [
+                {
+                  "villageName": "ஏ. செட்டிப்பட்டி"
+                },
+                {
+                  "villageName": "கோட்டைக்கொல்லை"
+                },
+                {
+                  "villageName": "செல்லாயிபுரம்"
+                },
+                {
+                  "villageName": "வாசுகிபுரம்"
+                },
+                {
+                  "villageName": "இராயவரம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "இரும்பாநாடு",
+              "villageList": [
+                {
+                  "villageName": "அம்பலத்தாடி"
+                },
+                {
+                  "villageName": "அம்புக்கோட்டை "
+                },
+                {
+                  "villageName": "தாரணி"
+                },
+                {
+                  "villageName": "இரும்பாநாடு "
+                },
+                {
+                  "villageName": "கோரக்கன்வயல்"
+                },
+                {
+                  "villageName": "கொத்தலாங்குடி"
+                },
+                {
+                  "villageName": "முடுக்குவயல்"
+                },
+                {
+                  "villageName": "பச்சைமா நகர்"
+                },
+                {
+                  "villageName": "விளாங்காட்டுர்"
+                },
+                {
+                  "villageName": "இரும்பாநாடு  மேலப்பாகம்"
+                },
+                {
+                  "villageName": "மறவன்வயல்  "
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஏம்பல்",
+              "villageList": [
+                {
+                  "villageName": "ஏம்பல்"
+                },
+                {
+                  "villageName": "அண்டக்குடி"
+                },
+                {
+                  "villageName": "சந்திரட்டான்வயல்"
+                },
+                {
+                  "villageName": "பறையன்காடு"
+                },
+                {
+                  "villageName": "தேனத்திவயல்"
+                },
+                {
+                  "villageName": "விசூர்  வடக்கு"
+                },
+                {
+                  "villageName": "வயலான்குடி"
+                },
+                {
+                  "villageName": "விருதன்வயல்"
+                },
+                {
+                  "villageName": "விசூர் தெற்கு"
+                },
+                {
+                  "villageName": " அம்பாள் நகர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஓணாங்குடி",
+              "villageList": [
+                {
+                  "villageName": "அண்ணாநகர்"
+                },
+                {
+                  "villageName": "சத்திரம்"
+                },
+                {
+                  "villageName": "மரமடக்கி"
+                },
+                {
+                  "villageName": "சீகம்பட்டி"
+                },
+                {
+                  "villageName": "ஒனாங்குடி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கடியாப்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "ஆவரங்காடு"
+                },
+                {
+                  "villageName": "சின்ன கடியாப்பட்டி"
+                },
+                {
+                  "villageName": "சித்தளஞ்சாப்பட்டி"
+                },
+                {
+                  "villageName": "காடத்தாம்பட்டி"
+                },
+                {
+                  "villageName": "கானாப்பேட்டை"
+                },
+                {
+                  "villageName": " முள்ளுக்குண்டு"
+                },
+                {
+                  "villageName": "பனங்குடி"
+                },
+                {
+                  "villageName": "இராமச்சந்திரபுரம்"
+                },
+                {
+                  "villageName": "திருவள்ளுவர்நகர்"
+                },
+                {
+                  "villageName": "விஸ்வனாதபுரம்"
+                },
+                {
+                  "villageName": "இராவுத்தம்பட்டி"
+                },
+                {
+                  "villageName": "பழையூர்"
+                },
+                {
+                  "villageName": "மாதா கோவில்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கடையக்குடி",
+              "villageList": [
+                {
+                  "villageName": "செட்டிபிட்ச்சம்பட்டி"
+                },
+                {
+                  "villageName": "செட்டிபிட்ச்சம்பட்டி காலனி"
+                },
+                {
+                  "villageName": "கோவிஞ்சப்பட்டி"
+                },
+                {
+                  "villageName": "கோவிஞ்சப்பட்டி காலனி"
+                },
+                {
+                  "villageName": "நம்பம்பட்டி"
+                },
+                {
+                  "villageName": "நரிக்குறவர்காலனி"
+                },
+                {
+                  "villageName": "செபஸ்தியார்புரம்"
+                },
+                {
+                  "villageName": "வடக்குநல்லிப்பட்டி"
+                },
+                {
+                  "villageName": "வளையம்பட்டி"
+                },
+                {
+                  "villageName": "கடை ய க்குடி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கண்ணன்காரக்குடி",
+              "villageList": [
+                {
+                  "villageName": "தம்மனாபட்டி"
+                },
+                {
+                  "villageName": "கண்ணங்காரக்குடி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கல்லூர்",
+              "villageList": [
+                {
+                  "villageName": "சுதந்திரபுரம்"
+                },
+                {
+                  "villageName": "தெக்கூர்"
+                },
+                {
+                  "villageName": "கல்லூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "காரமங்கலம்",
+              "villageList": [
+                {
+                  "villageName": "காயாம்பட்டி"
+                },
+                {
+                  "villageName": "கழனிவாசல்"
+                },
+                {
+                  "villageName": "கொக்குவெள்ளையன்காடு"
+                },
+                {
+                  "villageName": "கொங்கன் தெரு"
+                },
+                {
+                  "villageName": "நல்லக்குறிச்சி"
+                },
+                {
+                  "villageName": "பாப்பம்பட்டி"
+                },
+                {
+                  "villageName": "தேனிப்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கீழப்பனையூர்",
+              "villageList": [
+                {
+                  "villageName": "காமாட்சிபுரம்"
+                },
+                {
+                  "villageName": "ஒத்தபுளிக் குடியிருப்பு"
+                },
+                {
+                  "villageName": "தெற்குகுடியிருப்பு"
+                },
+                {
+                  "villageName": "வடக்குகுடியிருப்பு"
+                },
+                {
+                  "villageName": "வையாபுரிப்பட்டி"
+                },
+                {
+                  "villageName": "வெட்டுக்காடு"
+                },
+                {
+                  "villageName": "கீழப்பனையூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கும்மங்குடி",
+              "villageList": [
+                {
+                  "villageName": "அய்யனார்பட்டி"
+                },
+                {
+                  "villageName": "காத்தடிச்சாம்பட்டி"
+                },
+                {
+                  "villageName": "கல்லுக்குடியிருப்பு"
+                },
+                {
+                  "villageName": "மடத்துப்பட்டி"
+                },
+                {
+                  "villageName": "மீனிக் கந்தா"
+                },
+                {
+                  "villageName": "நாட்டாம்பட்டி"
+                },
+                {
+                  "villageName": "ஒருத்திக்காடு"
+                },
+                {
+                  "villageName": "தள்ளாம்பட்டி"
+                },
+                {
+                  "villageName": "தெற்குபொந்துபுளி"
+                },
+                {
+                  "villageName": "தேத்தாம்பட்டி"
+                },
+                {
+                  "villageName": "வடக்குபொந்துபுளி"
+                },
+                {
+                  "villageName": "கும்மங்குடி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "குருங்கலூர்",
+              "villageList": [
+                {
+                  "villageName": "ஆண்டாகோட்டை"
+                },
+                {
+                  "villageName": "ஏனங்கம்"
+                },
+                {
+                  "villageName": "குருங்கலூர்"
+                },
+                {
+                  "villageName": "கூத்தன்குடி"
+                },
+                {
+                  "villageName": "கோவிலான்வயல்"
+                },
+                {
+                  "villageName": "சிறுகாத்தான்குடி"
+                },
+                {
+                  "villageName": "தென்குடி"
+                },
+                {
+                  "villageName": "வைராணி"
+                },
+                {
+                  "villageName": "வளையன்வயல்"
+                },
+                {
+                  "villageName": "வேளாணி"
+                },
+                {
+                  "villageName": "காரை  நகர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கே.இராயவரம்",
+              "villageList": [
+                {
+                  "villageName": "உடையார் தெரு"
+                },
+                {
+                  "villageName": "கே.இராயவரம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கே.செட்டிப்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "ஆனைவாரி"
+                },
+                {
+                  "villageName": "கானப்பூர்"
+                },
+                {
+                  "villageName": "முடுக்குப்பட்டி"
+                },
+                {
+                  "villageName": "கே.செட்டிபட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கைக்குளன்வயல்",
+              "villageList": [
+                {
+                  "villageName": "அம்புராணி"
+                },
+                {
+                  "villageName": "கே . புதுப்பட்டி"
+                },
+                {
+                  "villageName": "கரையப்பட்டி"
+                },
+                {
+                  "villageName": "கொசவப்பட்டி"
+                },
+                {
+                  "villageName": "வேலாவயல்  "
+                }
+              ]
+            },
+            {
+              "panchayatName": "சமுத்திரம்",
+              "villageList": [
+                {
+                  "villageName": "மணப்பட்டி"
+                },
+                {
+                  "villageName": "கரையப்பட்டி"
+                },
+                {
+                  "villageName": "மடத்துப்பட்டி"
+                },
+                {
+                  "villageName": "மனைக்குடியிருப்பு"
+                },
+                {
+                  "villageName": "சாமத்தம்பட்டி"
+                },
+                {
+                  "villageName": "சாமத்தம்பட்டி காலனி"
+                },
+                {
+                  "villageName": "தாஞ்சூர்"
+                },
+                {
+                  "villageName": "தாஞ்சூர் காலனி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "செங்கீரை",
+              "villageList": [
+                {
+                  "villageName": "ஆலங்குடி"
+                },
+                {
+                  "villageName": "பத்தைக்காடு"
+                },
+                {
+                  "villageName": "செங்கீரை"
+                },
+                {
+                  "villageName": "மேனாம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "திருவாக்குடி",
+              "villageList": [
+                {
+                  "villageName": "ஆலத்திமனை"
+                },
+                {
+                  "villageName": "அரசூர்"
+                },
+                {
+                  "villageName": "சத்திரபட்டி"
+                },
+                {
+                  "villageName": "திருவாக்குடி"
+                },
+                {
+                  "villageName": "ஈச்சம்பொட்டல்"
+                },
+                {
+                  "villageName": "காடங்குடி"
+                },
+                {
+                  "villageName": "மருதங்குடி"
+                },
+                {
+                  "villageName": "மேலகரம்பை"
+                },
+                {
+                  "villageName": "நல்லிக்குடி"
+                },
+                {
+                  "villageName": "போர்குடி"
+                },
+                {
+                  "villageName": "சித்திரம்பூர்"
+                },
+                {
+                  "villageName": "தொன்னாக்குடி"
+                },
+                {
+                  "villageName": "வெள்ளாளவயல்"
+                },
+                {
+                  "villageName": "மாராட்டி"
+                },
+                {
+                  "villageName": "சிலுவைக்குடி"
+                },
+                {
+                  "villageName": "கீழக்கரம்பை"
+                },
+                {
+                  "villageName": "நல்லிவயல்"
+                },
+                {
+                  "villageName": "கரையான்கோட்டை"
+                }
+              ]
+            },
+            {
+              "panchayatName": "துரையூர்",
+              "villageList": [
+                {
+                  "villageName": "கீரணி ப்பட்டி"
+                },
+                {
+                  "villageName": "துறையூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "தேக்காட்டூர்",
+              "villageList": [
+                {
+                  "villageName": "அகதிகள்முகாம்"
+                },
+                {
+                  "villageName": "அரசனாயகிபுரம்"
+                },
+                {
+                  "villageName": "அதிகாரிபட்டி"
+                },
+                {
+                  "villageName": "இளங்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "இந்திரா காலனி"
+                },
+                {
+                  "villageName": "காயாம்பட்டி"
+                },
+                {
+                  "villageName": "கமமஞ்செட்டி  சத்திரம்"
+                },
+                {
+                  "villageName": "கீழத்தேமுத்தன்பட்டி"
+                },
+                {
+                  "villageName": "குறிச்சிப்பட்டி"
+                },
+                {
+                  "villageName": "குறிச்சிப்பட்டி காலனி"
+                },
+                {
+                  "villageName": "லெ.விளக்கு"
+                },
+                {
+                  "villageName": "மலுக்கன்பட்டி"
+                },
+                {
+                  "villageName": "மேலதேமுத்தப்பட்டி"
+                },
+                {
+                  "villageName": "நமணசமுத்திரம்"
+                },
+                {
+                  "villageName": "பூவன்பட்டி"
+                },
+                {
+                  "villageName": "செபஸ்தியார்புரம்"
+                },
+                {
+                  "villageName": "சிவபுரம்"
+                },
+                {
+                  "villageName": "திருவானைக்காவன்பட்டி"
+                },
+                {
+                  "villageName": "வடக்கிப்பட்டி"
+                },
+                {
+                  "villageName": "தேக்காட்டுர்"
+                },
+                {
+                  "villageName": "நமணசமுத்திரம்குடியிருப்பு"
+                },
+                {
+                  "villageName": "அதிகாரிபட்டி கவுண்டர் தெரு"
+                },
+                {
+                  "villageName": " பி.காலனி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "நல்லாம்பாள் சமுத்திரம்",
+              "villageList": [
+                {
+                  "villageName": "கோவில்பட்டி"
+                },
+                {
+                  "villageName": "மாவடிப்பட்டி"
+                },
+                {
+                  "villageName": "நம்பூரனிப்பட்டி"
+                },
+                {
+                  "villageName": "நம்பூரனிப்பட்டி  ஆதிதிராவிடர் காலனி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "நெடுங்குடி",
+              "villageList": [
+                {
+                  "villageName": "அம்பாள்புரம்"
+                },
+                {
+                  "villageName": "கைலாசபுரம்"
+                },
+                {
+                  "villageName": "ராஜாவயல்"
+                },
+                {
+                  "villageName": "நெடுங்குடி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "பிலியவயல்",
+              "villageList": [
+                {
+                  "villageName": "அசையா ன்குடியிருப்பு"
+                },
+                {
+                  "villageName": "ஏத்தநாடு"
+                },
+                {
+                  "villageName": "ஏத்தநாடு காலனி"
+                },
+                {
+                  "villageName": "பில்லங்குடி"
+                },
+                {
+                  "villageName": "வம்பரம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "புதுநிலைவயல்",
+              "villageList": [
+                {
+                  "villageName": "கீழாநிலைக்கோட்டை"
+                },
+                {
+                  "villageName": "முத்துப்பட்டினம்"
+                },
+                {
+                  "villageName": "முத்தூர்"
+                },
+                {
+                  "villageName": "புதுநிலைப்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "பெருங்குடி",
+              "villageList": [
+                {
+                  "villageName": "இன்னாசியார்புரம்"
+                },
+                {
+                  "villageName": "கொல்லக்குடி"
+                },
+                {
+                  "villageName": "குருந்தடிபாலம்பட்டி"
+                },
+                {
+                  "villageName": "பாப்பான்பட்டி"
+                },
+                {
+                  "villageName": "விளாங்கட்டான்பட்டி"
+                },
+                {
+                  "villageName": "பெருங்குடி"
+                },
+                {
+                  "villageName": "பூவம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மதகம்",
+              "villageList": [
+                {
+                  "villageName": "தானிக்காடு"
+                },
+                {
+                  "villageName": "மதகம்"
+                },
+                {
+                  "villageName": "ஏந்தவயல்"
+                },
+                {
+                  "villageName": "இச்சிக்கோட்டை"
+                },
+                {
+                  "villageName": "கறம்பவயல்"
+                },
+                {
+                  "villageName": "செப்பாவயல்"
+                },
+                {
+                  "villageName": "தில்லைவயல்"
+                },
+                {
+                  "villageName": "திராபிடுங்கி"
+                },
+                {
+                  "villageName": "திருப்பனங்குடி"
+                },
+                {
+                  "villageName": "புலவன்வயல்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மிரட்டுநிலை",
+              "villageList": [
+                {
+                  "villageName": "ஆத்தங்கரைப்பட்டி "
+                },
+                {
+                  "villageName": "தெற்குபொன்னம்பட்டி "
+                },
+                {
+                  "villageName": "வடக்குபொன்னம்பட்டி"
+                },
+                {
+                  "villageName": "வரிக்காபள்ளம்"
+                },
+                {
+                  "villageName": "மிரட்டுநிலை "
+                }
+              ]
+            },
+            {
+              "panchayatName": "முனசந்தை",
+              "villageList": [
+                {
+                  "villageName": "அய்யனார்புரம்"
+                },
+                {
+                  "villageName": "கணேஷ்நகர்"
+                },
+                {
+                  "villageName": "காமராஜர் காலனி"
+                },
+                {
+                  "villageName": "மருதம்பட்டி"
+                },
+                {
+                  "villageName": "புதுப்பட்டி"
+                },
+                {
+                  "villageName": "தெற்குநல்லிப்பட்டி"
+                },
+                {
+                  "villageName": "ஆண்டிபட்டி    "
+                },
+                {
+                  "villageName": "முனசந்தை"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மேல்நிலைவயல்",
+              "villageList": [
+                {
+                  "villageName": "மாவயல்பட்டி"
+                },
+                {
+                  "villageName": "பூனையன்குடியிருப்பு"
+                },
+                {
+                  "villageName": "ரெகுநாதபுரம்"
+                },
+                {
+                  "villageName": "வடகாட்டுப்பட்டி"
+                },
+                {
+                  "villageName": "மேல்நிலைப்பட்டி"
+                },
+                {
+                  "villageName": "உசிலம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "வன்னியம்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "கூத்தம்பட்டி"
+                },
+                {
+                  "villageName": "நீதிநாதபுரம்"
+                },
+                {
+                  "villageName": "நெயவாசல்பட்டி"
+                },
+                {
+                  "villageName": "நெய்வாசல்பட்டி   காலனி"
+                },
+                {
+                  "villageName": "சேப்பிளாம்பட்டி"
+                },
+                {
+                  "villageName": "வடக்குப்பட்டி"
+                },
+                {
+                  "villageName": "உவட்டுப்பாலம்பட்டி"
+                },
+                {
+                  "villageName": "வன்னியம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "வாளரமாணிக்கம்",
+              "villageList": [
+                {
+                  "villageName": "அணி கனி"
+                },
+                {
+                  "villageName": "இடையன்வயல்"
+                },
+                {
+                  "villageName": "இளங்குடி"
+                },
+                {
+                  "villageName": "குறிச்சி"
+                },
+                {
+                  "villageName": "நெம்மேலி"
+                },
+                {
+                  "villageName": "ஒச்சான்குடியிருப்பு"
+                },
+                {
+                  "villageName": "பாம்பாரம்பட்டி"
+                },
+                {
+                  "villageName": "இடையன்வயல்  காலனி"
+                },
+                {
+                  "villageName": "போசம்பட்டி காலனி"
+                },
+                {
+                  "villageName": "சமுத்திராப்பட்டி"
+                },
+                {
+                  "villageName": "சமுத்திராப்பட்டி காலனி"
+                },
+                {
+                  "villageName": "சிட்டாம்பட்டி"
+                },
+                {
+                  "villageName": "வாளரமாணிக்கம்"
+                },
+                {
+                  "villageName": "தெற்கு சமுத்திராப்பட்டி"
+                },
+                {
+                  "villageName": "போசம்பட்டி"
+                },
+                {
+                  "villageName": "பாம்பாரம்பட்டி காலனி "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unionName": "திருமயம்",
+          "panchayatList": [
+            {
+              "panchayatName": "அரங்கினாம்பட்டி  ",
+              "villageList": [
+                {
+                  "villageName": "அரங்கினாபட்டி"
+                },
+                {
+                  "villageName": "முருகாண்டிப்பட்டி"
+                },
+                {
+                  "villageName": "சாரப்பட்டி"
+                },
+                {
+                  "villageName": "தத்தமுத்துப்பட்டி"
+                },
+                {
+                  "villageName": "உலகினிப்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "அரசம்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "அரசம்பட்டி"
+                },
+                {
+                  "villageName": "தேவவயல்"
+                },
+                {
+                  "villageName": "ஆனைப்பட்டி"
+                },
+                {
+                  "villageName": "குரும்பபட்டி"
+                },
+                {
+                  "villageName": "மருங்கூர்"
+                },
+                {
+                  "villageName": "மெய்யப்பட்டி"
+                },
+                {
+                  "villageName": "முள்ளிப்பட்டி"
+                },
+                {
+                  "villageName": "ஒசுவான்பட்டி"
+                },
+                {
+                  "villageName": "பழையஆனைப்பட்டி"
+                },
+                {
+                  "villageName": "பாப்பான்பட்டி"
+                },
+                {
+                  "villageName": "சத்தியமூர்த்திநகர்"
+                },
+                {
+                  "villageName": "திருவம்பட்டி"
+                },
+                {
+                  "villageName": "வீரப்பட்டி"
+                },
+                {
+                  "villageName": "வேப்பம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஆதனூர்",
+              "villageList": [
+                {
+                  "villageName": "ஆலமரத்துக்குடியிருப்பு"
+                },
+                {
+                  "villageName": "அரண்மனைபட்டி"
+                },
+                {
+                  "villageName": "ஆதனூர்"
+                },
+                {
+                  "villageName": "அய்யனார்புரம்"
+                },
+                {
+                  "villageName": "இந்திரா குடியிருப்பு"
+                },
+                {
+                  "villageName": "கண்ணனிப்பட்டி"
+                },
+                {
+                  "villageName": "காயாம்பட்டி"
+                },
+                {
+                  "villageName": "கோவில்பட்டி"
+                },
+                {
+                  "villageName": "குளத்துப்பட்டி"
+                },
+                {
+                  "villageName": "குருந்தம்பாறை"
+                },
+                {
+                  "villageName": "மேட்டுப்பட்டி"
+                },
+                {
+                  "villageName": "நயினாப்பட்டி"
+                },
+                {
+                  "villageName": "புதுக்குடியிருப்பு"
+                },
+                {
+                  "villageName": "சாஸ்தாவயல்"
+                },
+                {
+                  "villageName": "சவேரியார்புரம்"
+                },
+                {
+                  "villageName": "செம்பூரான்பட்டி"
+                },
+                {
+                  "villageName": "தேத்தாம்பட்டி"
+                },
+                {
+                  "villageName": "உடவலப்பட்டி"
+                },
+                {
+                  "villageName": "வந்தவாசி"
+                },
+                {
+                  "villageName": "வெட்டுக்காடு"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஆத்தூர்",
+              "villageList": [
+                {
+                  "villageName": "மொடச்சங்காடு "
+                },
+                {
+                  "villageName": "புதுப்பட்டி"
+                },
+                {
+                  "villageName": "ஆத்தூர்"
+                },
+                {
+                  "villageName": "வைரம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "இளஞ்சாவூர்",
+              "villageList": [
+                {
+                  "villageName": "சித்தளஞ்சாம்பட்டி"
+                },
+                {
+                  "villageName": "இருதயபுரம்"
+                },
+                {
+                  "villageName": "கம்மங்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "மகமாயிபுரம்"
+                },
+                {
+                  "villageName": "இளஞ்சாவூர்"
+                },
+                {
+                  "villageName": "பள்ளம்பட்டி"
+                },
+                {
+                  "villageName": "செங்குலத்தான்பட்டி "
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஊனையூர்",
+              "villageList": [
+                {
+                  "villageName": "காரிப்பட்டி"
+                },
+                {
+                  "villageName": "கம்மங்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "கரணத்தான்பட்டி"
+                },
+                {
+                  "villageName": "கீழக்குளத்துப்பட்டி"
+                },
+                {
+                  "villageName": "கொசப்பட்டி"
+                },
+                {
+                  "villageName": "குளத்துப்பட்டி"
+                },
+                {
+                  "villageName": "சாத்தக்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "சவேரியார்புரம்"
+                },
+                {
+                  "villageName": "தெற்குமல்லுபட்டி"
+                },
+                {
+                  "villageName": "வன்னியுலந்தான்வயல்"
+                },
+                {
+                  "villageName": "வடக்குமல்லுப்பட்டி"
+                },
+                {
+                  "villageName": "ஊனையூர்"
+                },
+                {
+                  "villageName": "இந்திராநகர்"
+                },
+                {
+                  "villageName": "ஐய்யனார்புரம் "
+                }
+              ]
+            },
+            {
+              "panchayatName": "கண்ணனூர்",
+              "villageList": [
+                {
+                  "villageName": "க. புதுவயல்"
+                },
+                {
+                  "villageName": "கீழதுருவாசபுரம்"
+                },
+                {
+                  "villageName": "மேலதுருவாசபுரம்"
+                },
+                {
+                  "villageName": "முள்ளிப்பட்டி"
+                },
+                {
+                  "villageName": "கண்ணனூர்"
+                },
+                {
+                  "villageName": "முட்டுதான்பட்டி"
+                },
+                {
+                  "villageName": "ஒழுகுப்பட்டி"
+                },
+                {
+                  "villageName": "சாவக்காரன்பட்டி"
+                },
+                {
+                  "villageName": "தெ.புதுவயல்"
+                },
+                {
+                  "villageName": "கொல்லக்காட்டுபட்டி  "
+                }
+              ]
+            },
+            {
+              "panchayatName": "குருவிகொண்டான்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "குடமலை"
+                },
+                {
+                  "villageName": "குருவிகொண்டான்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "குலமங்கலம்",
+              "villageList": [
+                {
+                  "villageName": "இலாப்பட்டி"
+                },
+                {
+                  "villageName": "கொப்பராம்பட்டி"
+                },
+                {
+                  "villageName": "மாங்குறிச்சிப்பட்டி"
+                },
+                {
+                  "villageName": "மலையக்கோவில்"
+                },
+                {
+                  "villageName": "மலையலிங்கபுரம்"
+                },
+                {
+                  "villageName": "வேலவயல்"
+                },
+                {
+                  "villageName": "குலமங்கலம்"
+                },
+                {
+                  "villageName": "பானாவயல்"
+                },
+                {
+                  "villageName": "பூலாம்பட்டி"
+                },
+                {
+                  "villageName": "புதுக்குறிஞ்சிவயல்"
+                },
+                {
+                  "villageName": "செட்டிஊரணி"
+                },
+                {
+                  "villageName": "மேலக்காடு"
+                },
+                {
+                  "villageName": "கேஆர்.காலனி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "குழிபிறை",
+              "villageList": [
+                {
+                  "villageName": "குழிபிறை "
+                },
+                {
+                  "villageName": "குழிபிறைப்பட்டி "
+                }
+              ]
+            },
+            {
+              "panchayatName": "கே.பள்ளிவாசல்",
+              "villageList": [
+                {
+                  "villageName": "மெய்யபுரம்"
+                },
+                {
+                  "villageName": "பழந்தினாபட்டி"
+                },
+                {
+                  "villageName": "கே.பள்ளிவாசல்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கோட்டூர்",
+              "villageList": [
+                {
+                  "villageName": "அம்பாள்நகர்"
+                },
+                {
+                  "villageName": "கடம்பவயல்"
+                },
+                {
+                  "villageName": "கோவில்பட்டி"
+                },
+                {
+                  "villageName": "மலம்பட்டி"
+                },
+                {
+                  "villageName": "மேலத்தெரு"
+                },
+                {
+                  "villageName": "மேட்டுப்பட்டி"
+                },
+                {
+                  "villageName": "நல்லாம்பட்டி"
+                },
+                {
+                  "villageName": "பரணிக்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "தெற்குதாளம்பட்டி"
+                },
+                {
+                  "villageName": "வடக்குத்தாளம்பட்டி"
+                },
+                {
+                  "villageName": "கோட்டூர்"
+                },
+                {
+                  "villageName": "பாப்பாவயல்"
+                },
+                {
+                  "villageName": "மலையலிங்கபுரம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கோட்டையூர்",
+              "villageList": [
+                {
+                  "villageName": "புதுப்பட்டி"
+                },
+                {
+                  "villageName": "ஆண்டிப்பட்டி"
+                },
+                {
+                  "villageName": "அற்புதபுரம்"
+                },
+                {
+                  "villageName": "கொத்தவயல்"
+                },
+                {
+                  "villageName": "பழையகோட்டையூர்"
+                },
+                {
+                  "villageName": "தச்சம்பட்டி"
+                },
+                {
+                  "villageName": "தேவபட்டி"
+                },
+                {
+                  "villageName": "கே.கோட்டையூர் "
+                },
+                {
+                  "villageName": "வி.கோட்டையூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கோனாபட்டு ",
+              "villageList": [
+                {
+                  "villageName": "ஆரோக்கியபுரம்"
+                },
+                {
+                  "villageName": "கோனாபட்டு"
+                }
+              ]
+            },
+            {
+              "panchayatName": "சேதுராப்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "நாட்டியத்தான்பட்டி"
+                },
+                {
+                  "villageName": "ஓச்சம்பட்டி"
+                },
+                {
+                  "villageName": "பிராமனப்பட்டி"
+                },
+                {
+                  "villageName": "திருநாடன்பட்டி"
+                },
+                {
+                  "villageName": "வெள்ளிப்பட்டி"
+                },
+                {
+                  "villageName": "சேதுராபட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "திருமயம்",
+              "villageList": [
+                {
+                  "villageName": "மகமாயிபுரம்"
+                },
+                {
+                  "villageName": "மணவாளன்கரை"
+                },
+                {
+                  "villageName": "மணவாளி"
+                },
+                {
+                  "villageName": "ஓலக்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "பாப்பவயல்"
+                },
+                {
+                  "villageName": "சீமானூர்"
+                },
+                {
+                  "villageName": "செங்காவிடுதி"
+                },
+                {
+                  "villageName": "திருமயம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "துலையானூர்",
+              "villageList": [
+                {
+                  "villageName": "அடுக்கப்பட்டி"
+                },
+                {
+                  "villageName": "அம்மாபட்டி"
+                },
+                {
+                  "villageName": " அண்டக்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "அய்யனார்புரம்"
+                },
+                {
+                  "villageName": "செட்டியூர்"
+                },
+                {
+                  "villageName": "சின்னக்கல்லுவயல்"
+                },
+                {
+                  "villageName": "சோளத்தாவயல்"
+                },
+                {
+                  "villageName": "கொல்லக்காட்டுப்பட்டி"
+                },
+                {
+                  "villageName": "குன்னத்துப்பட்டி"
+                },
+                {
+                  "villageName": "மாவூர்"
+                },
+                {
+                  "villageName": "மலைக்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "மேலவிடுதி"
+                },
+                {
+                  "villageName": "மேட்டுப்பட்டி"
+                },
+                {
+                  "villageName": "மூங்கித்தாப்பட்டி"
+                },
+                {
+                  "villageName": "நாவிச்சிப்பட்டி"
+                },
+                {
+                  "villageName": "பாப்பாத்திஊரணி"
+                },
+                {
+                  "villageName": "பணங்கொண்டான்விடுதி"
+                },
+                {
+                  "villageName": "பரளி"
+                },
+                {
+                  "villageName": "பட்டணம்"
+                },
+                {
+                  "villageName": "பெரியக்கல்லுவயல்"
+                },
+                {
+                  "villageName": "மூ.புதுக்குடியிருப்பு"
+                },
+                {
+                  "villageName": "சமத்துவபுரம்"
+                },
+                {
+                  "villageName": "சந்தனவிடுதி"
+                },
+                {
+                  "villageName": "வலையன்வயல்"
+                },
+                {
+                  "villageName": "துலையானூர்"
+                },
+                {
+                  "villageName": "குளத்துப்பட்டி"
+                },
+                {
+                  "villageName": "புதுப்பரளி"
+                },
+                {
+                  "villageName": "பெசன்ட்நகர் "
+                }
+              ]
+            },
+            {
+              "panchayatName": "நச்சாந்துப்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "நச்சாந்துபட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "நெய்க்கோணம்",
+              "villageList": [
+                {
+                  "villageName": "அருமந்தம்பட்டி"
+                },
+                {
+                  "villageName": "கொட்டையாபட்டி"
+                },
+                {
+                  "villageName": "மருதக்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "நெய்கோணம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "நெய்வாசல்",
+              "villageList": [
+                {
+                  "villageName": "ஈழக்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "எளனாப்பட்டி"
+                },
+                {
+                  "villageName": "மஞ்சினிப்பட்டி"
+                },
+                {
+                  "villageName": "நல்லூர்"
+                },
+                {
+                  "villageName": "சீராத்தக்குடி"
+                },
+                {
+                  "villageName": "சண்முகநாதபுரி"
+                },
+                {
+                  "villageName": "தாளப்பட்டி"
+                },
+                {
+                  "villageName": "நெய்வாசல்"
+                },
+                {
+                  "villageName": "உடையார்தெரு"
+                }
+              ]
+            },
+            {
+              "panchayatName": "பனையப்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "கொல்லக்காடு"
+                },
+                {
+                  "villageName": "பூஞ்சோலைநகர்"
+                },
+                {
+                  "villageName": "உதயசூரியபுரம்"
+                },
+                {
+                  "villageName": "பனையப்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "பி.அழகாபுரி",
+              "villageList": [
+                {
+                  "villageName": "பில்லமங்களம்"
+                },
+                {
+                  "villageName": "பி.அழகாபுரி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "புலிவலம்",
+              "villageList": [
+                {
+                  "villageName": "இடையர்நத்தம்"
+                },
+                {
+                  "villageName": "ஏனப்பட்டிகிரிஸ்டின்"
+                },
+                {
+                  "villageName": "ஏனப்பட்டி"
+                },
+                {
+                  "villageName": "கடம்பபட்டி"
+                },
+                {
+                  "villageName": "கொடிப்பட்டி"
+                },
+                {
+                  "villageName": "சொக்கநாதப்பட்டி"
+                },
+                {
+                  "villageName": "புலிவலம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "பேரையூர்",
+              "villageList": [
+                {
+                  "villageName": "அரசந்தம்பட்டி"
+                },
+                {
+                  "villageName": "மல்லாங்குடி"
+                },
+                {
+                  "villageName": "பிலாக்குடிபட்டி"
+                },
+                {
+                  "villageName": "பேரையூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மிதிலைபட்டி",
+              "villageList": [
+                {
+                  "villageName": "கரடியான்குளம்"
+                },
+                {
+                  "villageName": "சங்கம்பட்டி"
+                },
+                {
+                  "villageName": "மிதிலைபட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மேலப்பனையூர் ",
+              "villageList": [
+                {
+                  "villageName": "நாடார்குடியிருப்பு"
+                },
+                {
+                  "villageName": "நரியன்காடு"
+                },
+                {
+                  "villageName": "பழுவினிப்பட்டி"
+                },
+                {
+                  "villageName": "பொன்னனூர்"
+                },
+                {
+                  "villageName": " பூவக்கோன்பட்டி"
+                },
+                {
+                  "villageName": "புரகரைப்பட்டி"
+                },
+                {
+                  "villageName": " புலிவயல்"
+                },
+                {
+                  "villageName": "வடகாடு"
+                },
+                {
+                  "villageName": "விலாரிப்பட்டி"
+                },
+                {
+                  "villageName": "மேலப்பனையூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மேலூர்",
+              "villageList": [
+                {
+                  "villageName": "இளங்குடிபட்டி"
+                },
+                {
+                  "villageName": "அம்மன்பட்டி"
+                },
+                {
+                  "villageName": "கரைமனைப்பட்டி"
+                },
+                {
+                  "villageName": "கரையாம்பட்டி"
+                },
+                {
+                  "villageName": "கொல்லக்காட்டுப்பட்டி"
+                },
+                {
+                  "villageName": "மனப்பட்டி"
+                },
+                {
+                  "villageName": "முல்லைநகர்"
+                },
+                {
+                  "villageName": "ஓடையப்பட்டி"
+                },
+                {
+                  "villageName": "ஒசுவான்பட்டி"
+                },
+                {
+                  "villageName": "பெருந்துரை"
+                },
+                {
+                  "villageName": "சீமானூர்"
+                },
+                {
+                  "villageName": "சோளம்பட்டி"
+                },
+                {
+                  "villageName": "வாரியப்பட்டி"
+                },
+                {
+                  "villageName": "வயல்மனைப்பட்டி"
+                },
+                {
+                  "villageName": "மேலூர்"
+                },
+                {
+                  "villageName": "வெள்ளுகுடிப்பட்டி"
+                },
+                {
+                  "villageName": "அண்டகுடிப்பட்டி "
+                }
+              ]
+            },
+            {
+              "panchayatName": "ராங்கியம்",
+              "villageList": [
+                {
+                  "villageName": "ஏரணிப்பட்டி"
+                },
+                {
+                  "villageName": "பாண்டனி"
+                },
+                {
+                  "villageName": "புரங்கொண்டான்வயல்"
+                },
+                {
+                  "villageName": "சேந்தம்பட்டி"
+                },
+                {
+                  "villageName": "சிவயோகபுரம்"
+                },
+                {
+                  "villageName": "உலகரட்சகபுரம்"
+                },
+                {
+                  "villageName": "வலசேரிப்பட்டி"
+                },
+                {
+                  "villageName": "ராங்கியம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ராராபுரம்",
+              "villageList": [
+                {
+                  "villageName": "கும்மங்குடி"
+                },
+                {
+                  "villageName": "தம்மினிப்பட்டி"
+                },
+                {
+                  "villageName": "ராராபுரம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "லெம்பலக்குடி ",
+              "villageList": [
+                {
+                  "villageName": "அம்மினிப்பட்டி"
+                },
+                {
+                  "villageName": "கப்பதான்பட்டி"
+                },
+                {
+                  "villageName": "கொத்தமுத்துப்பட்டி"
+                },
+                {
+                  "villageName": "மாமரத்துப்பட்டி"
+                },
+                {
+                  "villageName": "மேரிநகர்"
+                },
+                {
+                  "villageName": "மொரட்டாம்பட்டி"
+                },
+                {
+                  "villageName": "ந.புதூர்"
+                },
+                {
+                  "villageName": "நகரத்துப்பட்டி"
+                },
+                {
+                  "villageName": "பன்னீர்பள்ளம்"
+                },
+                {
+                  "villageName": "பாப்பான்பட்டி"
+                },
+                {
+                  "villageName": "பறையம்பட்டி"
+                },
+                {
+                  "villageName": "லெம்பலக்குடி"
+                },
+                {
+                  "villageName": "பில்லைப்பட்டி"
+                },
+                {
+                  "villageName": "பொன்குடிப்பட்டி"
+                },
+                {
+                  "villageName": "பொன்னவயல்"
+                },
+                {
+                  "villageName": "செட்டியாபட்டி"
+                },
+                {
+                  "villageName": "வளையன்வயல்"
+                },
+                {
+                  "villageName": "வன்ணாரப்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "வி.லக்ஷ்மிபுரம்",
+              "villageList": [
+                {
+                  "villageName": "நல்லிப்பட்டி"
+                },
+                {
+                  "villageName": "ஒத்தவீடு"
+                },
+                {
+                  "villageName": "வி.லக்ஷ்மிபுரம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "விராச்சிலை",
+              "villageList": [
+                {
+                  "villageName": "மேலவயல்"
+                },
+                {
+                  "villageName": "மேனாம்பட்டி"
+                },
+                {
+                  "villageName": "பிராவயல்"
+                },
+                {
+                  "villageName": "ரெண்டிவயல்"
+                },
+                {
+                  "villageName": "வீரனாம்பட்டி"
+                },
+                {
+                  "villageName": "விராச்சிலை "
+                }
+              ]
+            },
+            {
+              "panchayatName": "வெங்களூர் ",
+              "villageList": [
+                {
+                  "villageName": "வெங்களூர்"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unionName": "பொன்னமராவதி",
+          "panchayatList": [
+            {
+              "panchayatName": " திருக்களம்பூர்",
+              "villageList": [
+                {
+                  "villageName": "அண்ணாநகர்"
+                },
+                {
+                  "villageName": "அறியாண்டிபட்டி"
+                },
+                {
+                  "villageName": "காடம்பட்டி"
+                },
+                {
+                  "villageName": "களத்துவீடு"
+                },
+                {
+                  "villageName": "கருப்புகுடிபட்டி"
+                },
+                {
+                  "villageName": "கருதக்கோடன்பட்டி"
+                },
+                {
+                  "villageName": "குமாரபட்டி"
+                },
+                {
+                  "villageName": "நரங்கியம்பட்டி"
+                },
+                {
+                  "villageName": "ஊத்துக்குளி"
+                },
+                {
+                  "villageName": "தச்சம்பட்டி"
+                },
+                {
+                  "villageName": "திருக்கலம்பூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "அம்மன்குறிச்சி",
+              "villageList": [
+                {
+                  "villageName": "அம்மன்குறிச்சி "
+                },
+                {
+                  "villageName": "ஆவிங்கோன்பட்டி "
+                },
+                {
+                  "villageName": "சொக்கநாதபட்டி "
+                },
+                {
+                  "villageName": "கருமங்காடு "
+                }
+              ]
+            },
+            {
+              "panchayatName": "அரசமலை",
+              "villageList": [
+                {
+                  "villageName": "அய்யன்வயல்"
+                },
+                {
+                  "villageName": "அரசமலை"
+                },
+                {
+                  "villageName": "இடையம்பாரை"
+                },
+                {
+                  "villageName": "கணேசபுரம்"
+                },
+                {
+                  "villageName": "கண்டெடுதான்பட்டி"
+                },
+                {
+                  "villageName": "மதியாணி"
+                },
+                {
+                  "villageName": "மொங்கம்பட்டி"
+                },
+                {
+                  "villageName": "நாவக்குடிபட்டி"
+                },
+                {
+                  "villageName": "பூவலகுடி"
+                },
+                {
+                  "villageName": "சாத்தனூர்"
+                },
+                {
+                  "villageName": "வையாபுரி"
+                },
+                {
+                  "villageName": "வையாபுரிவிளக்கு"
+                },
+                {
+                  "villageName": "ஆனந்தஜோதிபுரம்"
+                },
+                {
+                  "villageName": "கொத்தன்காரைப்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஆர்.பாலகுறிச்சி",
+              "villageList": [
+                {
+                  "villageName": "கோபால்பட்டி"
+                },
+                {
+                  "villageName": "ரெகுனாதபட்டி"
+                },
+                {
+                  "villageName": "சீகம்பட்டி"
+                },
+                {
+                  "villageName": "வைரம்பட்டி"
+                },
+                {
+                  "villageName": "விடதாலம்பட்டி"
+                },
+                {
+                  "villageName": "ஆர்.பாலகுருச்சி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஆலம்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "ஆதிநிபட்டி"
+                },
+                {
+                  "villageName": "காடாம்பட்டி"
+                },
+                {
+                  "villageName": "ஆலம்பட்டி"
+                },
+                {
+                  "villageName": "கரையாம்பட்டி"
+                },
+                {
+                  "villageName": "முரண்டான்பட்டி"
+                },
+                {
+                  "villageName": "கண்ணியாபட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஆலவயல்",
+              "villageList": [
+                {
+                  "villageName": "சின்னபிட்சன்பட்டி"
+                },
+                {
+                  "villageName": "ஈசிகூடம்"
+                },
+                {
+                  "villageName": "குழவாய்க்காடு"
+                },
+                {
+                  "villageName": "ஆலவயல்"
+                },
+                {
+                  "villageName": "மலையாண்டிநகர்"
+                },
+                {
+                  "villageName": " மனதோண்டி"
+                },
+                {
+                  "villageName": " பன்னைக்கலம்"
+                },
+                {
+                  "villageName": "பரமன்கூடம்"
+                },
+                {
+                  "villageName": "பெரியஊரணி"
+                },
+                {
+                  "villageName": "  பிடாரம்படி"
+                },
+                {
+                  "villageName": "செம்மலாபட்டி"
+                },
+                {
+                  "villageName": "தம்பட்டம்பாரை"
+                },
+                {
+                  "villageName": "தெக்கிகாடு"
+                },
+                {
+                  "villageName": "துலுக்க ஊரணி"
+                },
+                {
+                  "villageName": "உலகஊரணி"
+                },
+                {
+                  "villageName": "வடக்கிபட்டி"
+                },
+                {
+                  "villageName": "வைரம்பட்டி"
+                },
+                {
+                  "villageName": "நரியங்காடு"
+                },
+                {
+                  "villageName": "சாத்தங்காடு"
+                },
+                {
+                  "villageName": "இழுப்பபுஞ்சை"
+                },
+                {
+                  "villageName": "அரசமங்களம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "இடையாத்தூர்",
+              "villageList": [
+                {
+                  "villageName": "அம்மாபட்டி"
+                },
+                {
+                  "villageName": "அம்பாள்புரம்"
+                },
+                {
+                  "villageName": "இடையபட்டி"
+                },
+                {
+                  "villageName": "இந்திராநகர்காலனி"
+                },
+                {
+                  "villageName": "இடையாத்தூர்"
+                },
+                {
+                  "villageName": "குழவாய்பட்டி"
+                },
+                {
+                  "villageName": "எம்.ஜி.ஆர் நகர்"
+                },
+                {
+                  "villageName": "புலவனார்குடி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "எம்.உசிலம்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "ஆவம்பட்டி"
+                },
+                {
+                  "villageName": "சூரபட்டி"
+                },
+                {
+                  "villageName": "வடக்கிபட்டி"
+                },
+                {
+                  "villageName": "வெள்ளயகவுண்டன்பட்டி"
+                },
+                {
+                  "villageName": "எம்.உசிலம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஏனாதி",
+              "villageList": [
+                {
+                  "villageName": "ஜீவா நகர்"
+                },
+                {
+                  "villageName": "பிடாரம்பட்டி"
+                },
+                {
+                  "villageName": "ஏனாதி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "ஒலியமங்கலம்",
+              "villageList": [
+                {
+                  "villageName": "எலுவன்கோரை"
+                },
+                {
+                  "villageName": "காயாம்பட்டி"
+                },
+                {
+                  "villageName": "குருந்திரிப்பட்டி"
+                },
+                {
+                  "villageName": "மடத்துப்பட்டி"
+                },
+                {
+                  "villageName": "சுந்தம்பட்டி"
+                },
+                {
+                  "villageName": "சுரைக்காய்பட்டி"
+                },
+                {
+                  "villageName": " வெள்ளாளபட்டி"
+                },
+                {
+                  "villageName": "வேங்கம்பட்டி"
+                },
+                {
+                  "villageName": "வெட்டுக்காடு"
+                },
+                {
+                  "villageName": "சேர்வைகாரன்பட்டி"
+                },
+                {
+                  "villageName": "ஒலியமங்கலம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கண்டியாநத்தம்",
+              "villageList": [
+                {
+                  "villageName": "கே.புதுப்பட்டி"
+                },
+                {
+                  "villageName": "கேசராப்பட்டி"
+                },
+                {
+                  "villageName": "க.பூதன்வளவு"
+                },
+                {
+                  "villageName": "கண்டியாநத்தம்"
+                },
+                {
+                  "villageName": "கருமங்காடு"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கல்லம்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "மேலகல்லம்பட்டி"
+                },
+                {
+                  "villageName": "மேட்டாம்பட்டி"
+                },
+                {
+                  "villageName": "மூக்களகம்பட்டி"
+                },
+                {
+                  "villageName": "பணயமங்களபட்டி"
+                },
+                {
+                  "villageName": "செக்லாபட்டி "
+                },
+                {
+                  "villageName": "கல்லம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "காட்டுபட்டி",
+              "villageList": [
+                {
+                  "villageName": "ஏனமேடு"
+                },
+                {
+                  "villageName": "ஹௌசிங் போர்ட்"
+                },
+                {
+                  "villageName": "சிவபிரகாசம் நகர்"
+                },
+                {
+                  "villageName": "வெல்லையாண்டிபட்டி"
+                },
+                {
+                  "villageName": "காட்டுபட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "காரையூர்",
+              "villageList": [
+                {
+                  "villageName": "மாங்காளிபட்டி"
+                },
+                {
+                  "villageName": "மரவற்குடியிருப்பு"
+                },
+                {
+                  "villageName": "சங்கரம்பட்டி"
+                },
+                {
+                  "villageName": "மருதம்பட்டி "
+                },
+                {
+                  "villageName": "காரையூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கீழத்தானியம்",
+              "villageList": [
+                {
+                  "villageName": "அம்மன்கோவில்பட்டி "
+                },
+                {
+                  "villageName": "ஆதி காலனி "
+                },
+                {
+                  "villageName": "இடையபட்டி"
+                },
+                {
+                  "villageName": "ரெங்காபுரம்"
+                },
+                {
+                  "villageName": "சமபப்பட்டி"
+                },
+                {
+                  "villageName": "உப்பிள்ளியபட்டி"
+                },
+                {
+                  "villageName": "வி . புதூர்"
+                },
+                {
+                  "villageName": "ராமலிங்கபுரம் "
+                },
+                {
+                  "villageName": "கீழத்தானியம் "
+                }
+              ]
+            },
+            {
+              "panchayatName": "கூடலூர்",
+              "villageList": [
+                {
+                  "villageName": "சித்தூர்"
+                },
+                {
+                  "villageName": "சித்தூர் ஆதி காலனி"
+                },
+                {
+                  "villageName": "கூடலூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கொன்னையம்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "மேட்டுப்பட்டி"
+                },
+                {
+                  "villageName": "பாறைக்கலம்"
+                },
+                {
+                  "villageName": "புதுக்குடியிருப்பு"
+                },
+                {
+                  "villageName": "சல்லிவீரன்கலம்"
+                },
+                {
+                  "villageName": "கொன்னயம்பட்டி"
+                },
+                {
+                  "villageName": "கல்லாங்குத்து"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கொப்பனாப்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "கொன்னையூர்"
+                },
+                {
+                  "villageName": "பழயவளவு"
+                },
+                {
+                  "villageName": "ரெட்டியாபட்டி"
+                },
+                {
+                  "villageName": "கொப்பனாப்பட்டி"
+                },
+                {
+                  "villageName": "மூலங்குடி"
+                },
+                {
+                  "villageName": "மூலங்குடி ஆதிகாலனி"
+                },
+                {
+                  "villageName": "புது வளவு"
+                },
+                {
+                  "villageName": "கூத்தங்காடு"
+                },
+                {
+                  "villageName": "தச்சம்பட்டி"
+                },
+                {
+                  "villageName": "வெங்கலமேடு"
+                },
+                {
+                  "villageName": "கொன்னைப்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "கோவனூர்",
+              "villageList": [
+                {
+                  "villageName": "மேக்கினிபட்டி"
+                },
+                {
+                  "villageName": "பரந்தளைபட்டி"
+                },
+                {
+                  "villageName": "கோவனூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "சுந்தரம்",
+              "villageList": [
+                {
+                  "villageName": "அறுனாவயல்"
+                },
+                {
+                  "villageName": "இடையபட்டி"
+                },
+                {
+                  "villageName": "சுந்தரம்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "செம்பூதி",
+              "villageList": [
+                {
+                  "villageName": "அம்பலகாரன்பட்டி"
+                },
+                {
+                  "villageName": "அரவன்காடு"
+                },
+                {
+                  "villageName": "பிள்ளையார்பட்டி"
+                },
+                {
+                  "villageName": "பிதாவூர்"
+                },
+                {
+                  "villageName": "புதூர்"
+                },
+                {
+                  "villageName": "சிவந்திலிங்கபுரம்"
+                },
+                {
+                  "villageName": "தேனிமலை"
+                },
+                {
+                  "villageName": "செம்பூதி"
+                },
+                {
+                  "villageName": "அண்ணாநகர் "
+                }
+              ]
+            },
+            {
+              "panchayatName": "செவலூர்",
+              "villageList": [
+                {
+                  "villageName": "கருகாம்பட்டி"
+                },
+                {
+                  "villageName": "மலயடிபட்டி"
+                },
+                {
+                  "villageName": "செவலூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "சேரனூர்",
+              "villageList": [
+                {
+                  "villageName": "அறிஞ்சின்னாபட்டி"
+                },
+                {
+                  "villageName": "அச்சுகாட்டுபட்டி"
+                },
+                {
+                  "villageName": "கைவேலிபட்டி "
+                },
+                {
+                  "villageName": "கழனிவாய்பட்டி "
+                },
+                {
+                  "villageName": "கர்ணாபட்டி"
+                },
+                {
+                  "villageName": "சேரனூர் "
+                }
+              ]
+            },
+            {
+              "panchayatName": "தூத்தூர்",
+              "villageList": [
+                {
+                  "villageName": "மணபட்டி"
+                },
+                {
+                  "villageName": "பாரதிநகர்"
+                },
+                {
+                  "villageName": "புதுநல்லுர்"
+                },
+                {
+                  "villageName": "ராஜீவ்நகர்"
+                },
+                {
+                  "villageName": "தீத்தான்பட்டி"
+                },
+                {
+                  "villageName": "தூத்தூர்"
+                },
+                {
+                  "villageName": "திருமலைநகர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "தேனூர்",
+              "villageList": [
+                {
+                  "villageName": "ஏம்பல்பட்டி"
+                },
+                {
+                  "villageName": "கருகபூலாம்பட்டி"
+                },
+                {
+                  "villageName": "மேட்டுப்பட்டி"
+                },
+                {
+                  "villageName": "நாத்துபட்டி"
+                },
+                {
+                  "villageName": "பாறைக்களம்"
+                },
+                {
+                  "villageName": "சுப்புராயப்பட்டி"
+                },
+                {
+                  "villageName": "தச்சம்பட்டி"
+                },
+                {
+                  "villageName": "தேனிமலை"
+                },
+                {
+                  "villageName": "தேனூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "தொட்டியம்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "அண்ணாநகர்"
+                },
+                {
+                  "villageName": "இந்திராநகர்"
+                },
+                {
+                  "villageName": "ஜேஜே  நகர்"
+                },
+                {
+                  "villageName": "காமராஜ்நகர்"
+                },
+                {
+                  "villageName": "கட்டையாண்டிபட்டி"
+                },
+                {
+                  "villageName": "பி .புதுபட்டி"
+                },
+                {
+                  "villageName": "பெரியார்நகர்"
+                },
+                {
+                  "villageName": "  பொன் நகர்"
+                },
+                {
+                  "villageName": "தொட்டியம்பட்டி "
+                },
+                {
+                  "villageName": "பட்டமரத்தான் நகர்"
+                },
+                {
+                  "villageName": "ராம்நகர் "
+                }
+              ]
+            },
+            {
+              "panchayatName": "நகரபட்டி",
+              "villageList": [
+                {
+                  "villageName": "அம்மாபட்டி"
+                },
+                {
+                  "villageName": "மாம்பட்டி"
+                },
+                {
+                  "villageName": "வடக்கிபட்டி"
+                },
+                {
+                  "villageName": "நகரபட்டி "
+                }
+              ]
+            },
+            {
+              "panchayatName": "நல்லூர்",
+              "villageList": [
+                {
+                  "villageName": "ஆத்தன்காடு"
+                },
+                {
+                  "villageName": "இள்ளனிபட்டி"
+                },
+                {
+                  "villageName": "கீமனுர்"
+                },
+                {
+                  "villageName": "கீரன்குடி"
+                },
+                {
+                  "villageName": "கொல்லம்புன்சை"
+                },
+                {
+                  "villageName": "குழவாய்பட்டி"
+                },
+                {
+                  "villageName": "சுந்தர்நகர்"
+                },
+                {
+                  "villageName": "மேமனப்பட்டி  "
+                },
+                {
+                  "villageName": "நல்லூர்"
+                }
+              ]
+            },
+            {
+              "panchayatName": "நெருஞ்சிக்குடி",
+              "villageList": [
+                {
+                  "villageName": "களத்துவீடு"
+                },
+                {
+                  "villageName": "கூடுதலைபட்டி"
+                },
+                {
+                  "villageName": "பாலன்பட்டி"
+                },
+                {
+                  "villageName": "புது நெறிஞ்சிகுடி"
+                },
+                {
+                  "villageName": "வெள்ளகுடி"
+                },
+                {
+                  "villageName": "நெருஞ்சிக்குடி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "பகவாண்டிபட்டி",
+              "villageList": [
+                {
+                  "villageName": "அறியாண்டிபட்டி"
+                },
+                {
+                  "villageName": "காயம்புன்சை"
+                },
+                {
+                  "villageName": "பகவான்டிபட்டி"
+                },
+                {
+                  "villageName": "அச்சுக்காட்டுபட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "பி.உசிலம்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "கட்டையாண்டிபட்டி"
+                },
+                {
+                  "villageName": "கீளவேகுபட்டி"
+                },
+                {
+                  "villageName": "கோனர்குடியிருப்பு"
+                },
+                {
+                  "villageName": "பி.உசிலம்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மறவாமதுரை",
+              "villageList": [
+                {
+                  "villageName": "ஈசம்பட்டி"
+                },
+                {
+                  "villageName": "கண்கானிபட்டி"
+                },
+                {
+                  "villageName": "மங்கனூர்"
+                },
+                {
+                  "villageName": "மங்கனூர் ஆதிகாலனி"
+                },
+                {
+                  "villageName": "படுதிணிபட்டி"
+                },
+                {
+                  "villageName": "படுதினிபட்டி ஆதிகாலனி"
+                },
+                {
+                  "villageName": "சடையம்பட்டி"
+                },
+                {
+                  "villageName": "சொரியம்பட்டி"
+                },
+                {
+                  "villageName": "சொரியம்பட்டிஆதிகாலனி"
+                },
+                {
+                  "villageName": "உடையாம்பட்டி"
+                },
+                {
+                  "villageName": "மரவாமதுரை"
+                },
+                {
+                  "villageName": "சங்கம்படடி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "முள்ளிப்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "காட்டுவீடு"
+                },
+                {
+                  "villageName": "எம் .புதூர்"
+                },
+                {
+                  "villageName": "வத்தம்பட்டி "
+                },
+                {
+                  "villageName": "முள்ளிப்பட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மேலசிவபுரி",
+              "villageList": [
+                {
+                  "villageName": "அறுகன்குடியிறுப்பு"
+                },
+                {
+                  "villageName": "பிள்ளையார்கோவில்"
+                },
+                {
+                  "villageName": "மேலசிவபுரி "
+                }
+              ]
+            },
+            {
+              "panchayatName": "மேலத்தானியம்",
+              "villageList": [
+                {
+                  "villageName": "அம்மாபட்டி"
+                },
+                {
+                  "villageName": "அரோக்கியநகர்"
+                },
+                {
+                  "villageName": "காந்திநகர்"
+                },
+                {
+                  "villageName": "காமராஜபுரம் "
+                },
+                {
+                  "villageName": "பிள்ளனிவயல்"
+                },
+                {
+                  "villageName": "மேலத்தானியம் "
+                }
+              ]
+            },
+            {
+              "panchayatName": "மேலமேல்நிலை",
+              "villageList": [
+                {
+                  "villageName": "கீழப்பட்டி "
+                },
+                {
+                  "villageName": "மலம்பட்டி"
+                },
+                {
+                  "villageName": "மேலமேல்நிலை"
+                }
+              ]
+            },
+            {
+              "panchayatName": "மைலாப்பூர்",
+              "villageList": [
+                {
+                  "villageName": "அஞ்சுபுளிபட்டி"
+                },
+                {
+                  "villageName": "கல்லுக்காடு"
+                },
+                {
+                  "villageName": "பிள்ளையார்பட்டி"
+                },
+                {
+                  "villageName": "மைலாப்பூர்"
+                },
+                {
+                  "villageName": "கருவன்பள்ளம் "
+                },
+                {
+                  "villageName": "ஆழநகர் "
+                },
+                {
+                  "villageName": "பொத்திமலை "
+                }
+              ]
+            },
+            {
+              "panchayatName": "வார்பட்டு",
+              "villageList": [
+                {
+                  "villageName": "சின்னவர்குளம்"
+                },
+                {
+                  "villageName": " கள்ளகாடு"
+                },
+                {
+                  "villageName": "கீழகுறிச்சி பட்டி"
+                },
+                {
+                  "villageName": "கொள்ளுபட்டி"
+                },
+                {
+                  "villageName": "மேட்டம்பட்டி"
+                },
+                {
+                  "villageName": "நல்லூர்"
+                },
+                {
+                  "villageName": "பட்டுபுந்சைதோப்பு"
+                },
+                {
+                  "villageName": "பிட்சகாலன்பட்டி"
+                },
+                {
+                  "villageName": "பொய்யாமனிபட்டி"
+                },
+                {
+                  "villageName": "தேவன்பட்டி"
+                },
+                {
+                  "villageName": "பாரிநகர்"
+                },
+                {
+                  "villageName": "வார்பட்டு "
+                }
+              ]
+            },
+            {
+              "panchayatName": "வாழக்குறிச்சி",
+              "villageList": [
+                {
+                  "villageName": "ஆதன்காடு"
+                },
+                {
+                  "villageName": "நாகினிவயல்"
+                },
+                {
+                  "villageName": "நெய்வேலி"
+                },
+                {
+                  "villageName": "நெய்வேலி புதூர்"
+                },
+                {
+                  "villageName": "திருநாட்டம்பட்டி"
+                },
+                {
+                  "villageName": "வாழக்குறிச்சி  "
+                },
+                {
+                  "villageName": "விசமுளிவயல் "
+                }
+              ]
+            },
+            {
+              "panchayatName": "வேகுபட்டி",
+              "villageList": [
+                {
+                  "villageName": "பண்டிமான்நகர்"
+                },
+                {
+                  "villageName": "வேகுபட்டி"
+                }
+              ]
+            },
+            {
+              "panchayatName": "வேந்தன்பட்டி",
+              "villageList": [
+                {
+                  "villageName": "இடையபுதூர்"
+                },
+                {
+                  "villageName": "கறுப்பர்கோயில் பட்டி"
+                },
+                {
+                  "villageName": "ஓய்யன்புதூர்"
+                },
+                {
+                  "villageName": "பெரியான்களம்"
+                },
+                {
+                  "villageName": "சூராகோடங்கி வளவு"
+                },
+                {
+                  "villageName": "விஜயபுரம்"
+                },
+                {
+                  "villageName": "வேந்தன்பட்டி"
+                },
+                {
+                  "villageName": "அகமுடையபுதூர் "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
