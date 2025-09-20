@@ -21,7 +21,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
-    flavorDimensions "environment"
+    /*flavorDimensions "environment"
 
     productFlavors {
         dev {
@@ -31,7 +31,7 @@ android {
             resValue "string", "app_name", "OTN"
             buildConfigField "String", "BASE_URL", "\"http://68.183.91.82/api/\""
         }
-    }
+    }*/
 
     buildTypes {
         release {

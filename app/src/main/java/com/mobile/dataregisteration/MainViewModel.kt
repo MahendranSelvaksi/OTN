@@ -191,6 +191,7 @@ class MainViewModel @Inject constructor(private val dataStore: DataStore<Prefere
             try {
                 val response = RetrofitClient.api.registerUser(finalRequest)
                 if (response.isSuccessful && response.body() != null) {
+
                     val body = response.body()!!
                     onResult(true , body.message)
                 } else {

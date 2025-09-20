@@ -127,6 +127,7 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
+import androidx.core.content.FileProvider
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.navigation.NavHostController
@@ -141,6 +142,7 @@ import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import java.io.File
 
 
 @AndroidEntryPoint
@@ -442,8 +444,8 @@ fun LoginScreen(navController: NavHostController) {
                         Button(onClick = {
                             viewModel.login(
                                 deviceId = deviceId,
-                                userName = "ragulcse_p",
-                                password = "Ragul@123"
+                                userName = email,
+                                password = password
                             )
                         }) {
                             Text("Retry")
@@ -964,10 +966,14 @@ fun PhotoFormScreen(
                             userId?.let { viewModel.uploadPhotos(it,uploadImageList,userRegisterRequest){
                                     success, message ->
                                         if (success){
-                                            viewModel.successMessage = "Registration completed successfully!"
+                                            viewModel.successMessage = message
                                             viewModel.showSuccessDialog = true
                                         }else{
-
+                                            if (message == "Contact Administrator for login Access Failure"){
+                                                viewModel.logout()
+                                            }else{
+                                                Toast.makeText(context, message, Toast.LENGTH_SHORT).show()
+                                            }
                                         }
                             } }
 
@@ -1106,17 +1112,26 @@ fun PhotoQuestionSection(
 ) {
     val context = LocalContext.current
     val pendingCameraFor = remember { mutableStateOf<Int?>(null) } // 1 or 2
-
+    var tempFrontUri by remember { mutableStateOf<Uri?>(null) }
+    var tempBackUri by remember { mutableStateOf<Uri?>(null) }
     val takePicture1Launcher = rememberLauncherForActivityResult(
-        ActivityResultContracts.TakePicturePreview()
-    ) { bitmap ->
-        bitmap?.let { onFrontPhotoCameraCaptured(it) }
+        ActivityResultContracts.TakePicture()
+    ) { success  ->
+        if (success && tempFrontUri != null) {
+            val bmp = MediaStore.Images.Media.getBitmap(context.contentResolver, tempFrontUri)
+            File(tempFrontUri!!.path ?: "").delete()
+            onFrontPhotoCameraCaptured(bmp)
+        }
     }
 
     val takePicture2Launcher = rememberLauncherForActivityResult(
-        ActivityResultContracts.TakePicturePreview()
-    ) { bitmap ->
-        bitmap?.let { onBackPhotoCameraCaptured(it) }
+        ActivityResultContracts.TakePicture()
+    ) { success ->
+        if (success && tempBackUri != null) {
+            val bmp = MediaStore.Images.Media.getBitmap(context.contentResolver, tempBackUri)
+            File(tempBackUri!!.path ?: "").delete()
+            onBackPhotoCameraCaptured(bmp)
+        }
     }
 
     val cameraPermissionLauncher = rememberLauncherForActivityResult(
@@ -1124,9 +1139,21 @@ fun PhotoQuestionSection(
     ) { isGranted ->
         if (isGranted) {
             // Launch the camera for the pending slot only once
+            val file = File.createTempFile(if(pendingCameraFor.value == 1) "front_" else "back_", ".jpg", context.cacheDir)
+            val photoUri: Uri  = FileProvider.getUriForFile(
+                context,
+                "${context.packageName}.fileprovider",
+                file
+            )
             when (pendingCameraFor.value) {
-                1 -> takePicture1Launcher.launch()
-                2 -> takePicture2Launcher.launch()
+                1 ->{
+                    tempFrontUri = photoUri
+                    takePicture1Launcher.launch(photoUri)
+                }
+                2 ->{
+                    tempBackUri = photoUri
+                    takePicture2Launcher.launch(photoUri)
+                }
             }
         } else {
             Toast.makeText(context, "Camera permission denied", Toast.LENGTH_SHORT).show()
@@ -1139,8 +1166,21 @@ fun PhotoQuestionSection(
         if (ContextCompat.checkSelfPermission(context, Manifest.permission.CAMERA)
             == PackageManager.PERMISSION_GRANTED
         ) {
-            if (slot == 1) takePicture1Launcher.launch()
-            else takePicture2Launcher.launch()
+            val file = File.createTempFile(if(slot == 1) "front_" else "back_", ".jpg", context.cacheDir)
+            val photoUri: Uri = FileProvider.getUriForFile(
+                context,
+                "${context.packageName}.fileprovider",
+                file
+            )
+
+            if (slot == 1){
+                tempFrontUri = photoUri
+                takePicture1Launcher.launch(photoUri)
+            }
+            else{
+                tempBackUri = photoUri
+                takePicture2Launcher.launch(photoUri)
+            }
         } else {
             pendingCameraFor.value = slot
             cameraPermissionLauncher.launch(Manifest.permission.CAMERA)
@@ -1445,8 +1485,6 @@ fun MainScreen() {
                     )
                 )
         )
-
-
     }
 }
 
